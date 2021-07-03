@@ -1,2 +1,2 @@
 /openhim-common/openhim-mediator-bootstrap-scaffold/node_modules/
-node_modules/
+**/node_modules
